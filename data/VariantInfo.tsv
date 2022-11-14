@@ -1,0 +1,106 @@
+MutName	Position	OriAa	MutAa
+Alpha (B.1.1.7)	69	H	-
+Alpha (B.1.1.7)	70	V	-
+Alpha (B.1.1.7)	144	Y	-
+Alpha (B.1.1.7)	501	N	Y
+Alpha (B.1.1.7)	570	A	D
+Alpha (B.1.1.7)	681	P	H
+Alpha (B.1.1.7)	716	T	I
+Alpha (B.1.1.7)	982	S	A
+Alpha (B.1.1.7)	1118	D	H
+Alpha (B.1.1.7)	614	D	G
+Beta(B.1.351)	80	D	A
+Beta(B.1.351)	215	D	G
+Beta(B.1.351)	417	K	N
+Beta(B.1.351)	484	E	K
+Beta(B.1.351)	501	N	Y
+Beta(B.1.351)	701	A	V
+Beta(B.1.351)	614	D	G
+Gamma (P.1)	18	L	F
+Gamma (P.1)	20	T	N
+Gamma (P.1)	26	P	S
+Gamma (P.1)	138	D	Y
+Gamma (P.1)	190	R	S
+Gamma (P.1)	417	K	T
+Gamma (P.1)	484	E	K
+Gamma (P.1)	501	N	Y
+Gamma (P.1)	655	H	Y
+Gamma (P.1)	1027	T	I
+Gamma (P.1)	614	D	G
+Kappa (B.1.617.1)	452	L	R
+Kappa (B.1.617.1)	484	E	Q
+Kappa (B.1.617.1)	681	P	R
+Kappa (B.1.617.1)	614	D	G
+Eta (B.1.525)	52	Q	R
+Eta (B.1.525)	67	A	V
+Eta (B.1.525)	69	H	-
+Eta (B.1.525)	70	V	-
+Eta (B.1.525)	484	E	K
+Eta (B.1.525)	677	Q	H
+Eta (B.1.525)	888	F	L
+Eta (B.1.525)	614	D	G
+Delta (B.1.617.2)	19	T	R
+Delta (B.1.617.2)	452	L	R
+Delta (B.1.617.2)	478	T	K
+Delta (B.1.617.2)	950	D	N
+Delta (B.1.617.2)	614	D	G
+Lambda (C.37)	75	G	V
+Lambda (C.37)	76	T	I
+Lambda (C.37)	246	R	N
+Lambda (C.37)	247	S	-
+Lambda (C.37)	248	Y	-
+Lambda (C.37)	249	L	-
+Lambda (C.37)	250	T	-
+Lambda (C.37)	251	P	-
+Lambda (C.37)	252	G	-
+Lambda (C.37)	253	D	-
+Lambda (C.37)	452	L	Q
+Lambda (C.37)	490	F	S
+Lambda (C.37)	859	T	N
+Lambda (C.37)	614	D	G
+Omicron (B.1.1.529)	67	A	V
+Omicron (B.1.1.529)	69	H	-
+Omicron (B.1.1.529)	70	V	-
+Omicron (B.1.1.529)	95	T	I
+Omicron (B.1.1.529)	339	G	D
+Omicron (B.1.1.529)	371	S	L
+Omicron (B.1.1.529)	373	S	P
+Omicron (B.1.1.529)	375	S	F
+Omicron (B.1.1.529)	417	K	N
+Omicron (B.1.1.529)	440	N	K
+Omicron (B.1.1.529)	477	S	N
+Omicron (B.1.1.529)	478	T	K
+Omicron (B.1.1.529)	484	E	A
+Omicron (B.1.1.529)	493	Q	R
+Omicron (B.1.1.529)	496	G	S
+Omicron (B.1.1.529)	498	Q	R
+Omicron (B.1.1.529)	501	N	Y
+Omicron (B.1.1.529)	547	T	K
+Omicron (B.1.1.529)	655	H	Y
+Omicron (B.1.1.529)	679	N	K
+Omicron (B.1.1.529)	681	P	H
+Omicron (B.1.1.529)	764	N	K
+Omicron (B.1.1.529)	796	D	Y
+Omicron (B.1.1.529)	856	N	K
+Omicron (B.1.1.529)	954	Q	H
+Omicron (B.1.1.529)	969	N	K
+Omicron (B.1.1.529)	981	L	F
+Omicron (B.1.1.529)	614	D	G
+Other	142	G	D
+Other	143	V	-
+Other	145	Y	-
+Other	154	E	K
+Other	157	F	-
+Other	158	R	-
+Other	211	N	I
+Other	212	L	-
+Other	222	A	V
+Other	242	L	-
+Other	243	A	-
+Other	244	L	-
+Other	246	R	I
+Other	375	S	F
+Other	446	G	S
+Other	505	Y	H
+Other	981	L	F
+Other	614	D	G
