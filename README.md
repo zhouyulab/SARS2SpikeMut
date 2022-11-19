@@ -1,8 +1,8 @@
-# sars2-spike-mutation
+# SARS2SpikeMut
 
 ## This repository contains the following files:
 
-- Snakefile: main workflow to pre-process SARS-CoV-2 GISAID Spike protein sequences.
+- Snakefile: main workflow to pre-process SARS-CoV-2 GISAID spike protein sequences.
 - scripts: analysis scripts for this project.
 - data: GISAID sequencing data, reference SARS-CoV-2 Spike protein sequence and experimental data for this project.
 
